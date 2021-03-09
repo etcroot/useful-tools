@@ -11,9 +11,11 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Color Picker](https://www.webfx.com/web-design/color-picker/)
 * [Material UI](https://www.materialui.co/colors)
 * [Color Hunt](https://colorhunt.co/)
+* [Color Inspo](https://colorsinspo.com/)
 
-### Gradients
+### Gradients / Shadows
 * [CSS Gradient](https://cssgradient.io/)
+* [Brumm Shadow Generator](https://brumm.af/shadows)
 
 ### SVG's
 * [Get Waves](https://getwaves.io/)
@@ -34,3 +36,4 @@ Just a list of web tools i use frequently into a curated list on github for easy
 
 ### Others
 * [Meta Tags](https://metatags.io/)
+* [Sweetalert2](https://sweetalert2.github.io/)
