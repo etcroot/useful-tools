@@ -26,7 +26,11 @@ Just a list of web tools i use frequently into a curated list on github for easy
 ### Frameworks / Libraries
 * [NextJS](https://nextjs.org/)
 * [ReactJS](https://reactjs.org/)
+
+### CSS Frameworks
 * [Bootstrap](https://getbootstrap.com/)
+* [Bulma](https://bulma.io/)
+* [TailwindCSS](https://tailwindcss.com/)
 
 ### Others
 * [Meta Tags](https://metatags.io/)
