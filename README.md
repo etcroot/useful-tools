@@ -2,26 +2,31 @@
 Just a list of web tools i use frequently into a curated list on github for easy access and sharing.
 
 ### Icons
-* [heroicons.dev](https://heroicons.dev/)
-* [heroicons.com](https://heroicons.com/)
-* [flaticon.com](https://www.flaticon.com/)
-* [fontawesome.com](https://fontawesome.com/)
+* [Hero Icons #1](https://heroicons.dev/)
+* [Hero Icons #2](https://heroicons.com/)
+* [Flat Icon](https://www.flaticon.com/)
+* [Font Awesome](https://fontawesome.com/)
 
 ### Colours
-* [colorpicker.com](https://www.webfx.com/web-design/color-picker/)
-* [materialui.co](https://www.materialui.co/colors)
-* [colorhunt.co](https://colorhunt.co/)
+* [Color Picker](https://www.webfx.com/web-design/color-picker/)
+* [Material UI](https://www.materialui.co/colors)
+* [Color Hunt](https://colorhunt.co/)
 
 ### Gradients
-* [cssgradient.com](https://cssgradient.io/)
+* [CSS Gradient](https://cssgradient.io/)
 
 ### SVG's
-* [getwaves.io](https://getwaves.io/)
-* [blobmaker.app](https://www.blobmaker.app/)
-* [undraw.co](https://undraw.co/illustrations)
+* [Get Waves](https://getwaves.io/)
+* [Blob Maker](https://www.blobmaker.app/)
+* [Undraw Illustrations](https://undraw.co/illustrations)
 
 ### Placeholders
-* [unsplash.com](https://unsplash.com/)
+* [Unsplash Placeholders](https://unsplash.com/)
+
+### Frameworks / Libraries
+* [NextJS](https://nextjs.org/)
+* [ReactJS](https://reactjs.org/)
+* [Bootstrap](https://getbootstrap.com/)
 
 ### Others
-* [metatags.io](https://metatags.io/)
+* [Meta Tags](https://metatags.io/)
