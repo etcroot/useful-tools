@@ -1,5 +1,5 @@
 # useful-tools
-Just a list of web tools i use frequently
+Just a list of web tools i use frequently into a curated list on github for easy access and sharing.
 
 ### Icons
 * [heroicons.dev](https://heroicons.dev/)
@@ -10,7 +10,7 @@ Just a list of web tools i use frequently
 *soon*
 
 ### Gradients
-*soon*
+* [cssgradient.com](https://cssgradient.io/)
 
 ### SVG's
 *soon*
