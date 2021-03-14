@@ -21,6 +21,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Get Waves](https://getwaves.io/)
 * [Blob Maker](https://www.blobmaker.app/)
 * [Undraw Illustrations](https://undraw.co/illustrations)
+* [Hero Patterns](https://www.heropatterns.com/)
 
 ### 🌃 Placeholders
 * [Unsplash Placeholders](https://unsplash.com/)
