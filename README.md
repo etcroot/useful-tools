@@ -44,3 +44,6 @@ Just a list of web tools i use frequently into a curated list on github for easy
 
 ### 💠 Others
 * [Meta Tags](https://metatags.io/)
+* [ESLint](https://eslint.org/)
+* [BabelJS](https://babeljs.io/)
+* [Webpack](https://webpack.github.io/)
