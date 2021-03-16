@@ -26,7 +26,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 ### 🌃 Placeholders
 * [Unsplash Placeholders](https://unsplash.com/)
 
-### ⚡ Frameworks / Libraries
+### ⚡ Javascript Frameworks / Libraries
 * [NextJS](https://nextjs.org/)
 * [ReactJS](https://reactjs.org/)
 * [Sweetalert2](https://sweetalert2.github.io/)
