@@ -39,3 +39,4 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Meta Tags](https://metatags.io/)
 * [Sweetalert2](https://sweetalert2.github.io/)
 * [Bideo.js](https://github.com/rishabhp/bideo.js)
+* [AoS Animate on Scroll](https://michalsnik.github.io/aos/)
