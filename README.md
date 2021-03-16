@@ -42,3 +42,4 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [AoS Animate on Scroll](https://michalsnik.github.io/aos/)
 * [Chart.js](https://www.chartjs.org/)
 * [Cleave.js](https://nosir.github.io/cleave.js/)
+* [D3.js](https://d3js.org/)
