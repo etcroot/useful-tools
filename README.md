@@ -10,6 +10,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Chart.js](https://www.chartjs.org/)
 * [Cleave.js](https://nosir.github.io/cleave.js/)
 * [D3.js](https://d3js.org/)
+* [Three.js](https://threejs.org/)
 
 ### 💻 CSS Frameworks
 * [Bootstrap](https://getbootstrap.com/)
