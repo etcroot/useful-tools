@@ -1,6 +1,21 @@
 # useful-tools
 Just a list of web tools i use frequently into a curated list on github for easy access and sharing.
 
+### ⚡ Javascript Frameworks / Libraries
+* [NextJS](https://nextjs.org/)
+* [ReactJS](https://reactjs.org/)
+* [Sweetalert2](https://sweetalert2.github.io/)
+* [Bideo.js](https://github.com/rishabhp/bideo.js)
+* [AoS Animate on Scroll](https://michalsnik.github.io/aos/)
+* [Chart.js](https://www.chartjs.org/)
+* [Cleave.js](https://nosir.github.io/cleave.js/)
+* [D3.js](https://d3js.org/)
+
+### 💻 CSS Frameworks
+* [Bootstrap](https://getbootstrap.com/)
+* [Bulma](https://bulma.io/)
+* [TailwindCSS](https://tailwindcss.com/)
+
 ### 🔰 Icons
 * [Hero Icons #1](https://heroicons.dev/)
 * [Hero Icons #2](https://heroicons.com/)
@@ -25,22 +40,6 @@ Just a list of web tools i use frequently into a curated list on github for easy
 
 ### 🌃 Placeholders
 * [Unsplash Placeholders](https://unsplash.com/)
-
-### ⚡ Javascript Frameworks / Libraries
-* [NextJS](https://nextjs.org/)
-* [ReactJS](https://reactjs.org/)
-* [Sweetalert2](https://sweetalert2.github.io/)
-* [Bideo.js](https://github.com/rishabhp/bideo.js)
-* [AoS Animate on Scroll](https://michalsnik.github.io/aos/)
-* [Chart.js](https://www.chartjs.org/)
-* [Cleave.js](https://nosir.github.io/cleave.js/)
-* [D3.js](https://d3js.org/)
-
-
-### 💻 CSS Frameworks
-* [Bootstrap](https://getbootstrap.com/)
-* [Bulma](https://bulma.io/)
-* [TailwindCSS](https://tailwindcss.com/)
 
 ### 💠 Others
 * [Meta Tags](https://metatags.io/)
