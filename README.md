@@ -38,3 +38,4 @@ Just a list of web tools i use frequently into a curated list on github for easy
 ### 💠 Others
 * [Meta Tags](https://metatags.io/)
 * [Sweetalert2](https://sweetalert2.github.io/)
+* [Bideo.js](https://github.com/rishabhp/bideo.js)
