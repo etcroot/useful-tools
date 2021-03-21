@@ -38,6 +38,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 ### 🌌 SVG's
 * [Get Waves](https://getwaves.io/)
 * [Blob Maker](https://www.blobmaker.app/)
+* [Blob App](https://blobs.app/)
 * [Undraw Illustrations](https://undraw.co/illustrations)
 * [Hero Patterns](https://www.heropatterns.com/)
 
