@@ -27,6 +27,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Eva Icons](https://akveo.github.io/eva-icons/#/)
 * [Feather Icons](https://feathericons.com/)
 * [Styled Icons](https://styled-icons.js.org/)
+* [Ikonate](https://ikonate.com/)
 
 ### 🎨 Colours
 * [Color Picker](https://www.webfx.com/web-design/color-picker/)
