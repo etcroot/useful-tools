@@ -38,6 +38,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Material UI](https://www.materialui.co/colors)
 * [Color Hunt](https://colorhunt.co/)
 * [Color Inspo](https://colorsinspo.com/)
+* [Flat UI Colors](https://flatuicolors.com/)
 
 ### 🟥🟧 Gradients / Shadows
 * [CSS Gradient](https://cssgradient.io/)
@@ -52,6 +53,8 @@ Just a list of web tools i use frequently into a curated list on github for easy
 
 ### 🌃 Placeholders
 * [Unsplash Placeholders](https://unsplash.com/)
+* [Stock Snap](https://stocksnap.io/)
+* [PixaBay](https://pixabay.com/)
 
 ### 💠 Others
 * [Meta Tags](https://metatags.io/)
