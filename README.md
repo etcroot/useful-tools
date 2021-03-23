@@ -18,6 +18,9 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [TailwindCSS](https://tailwindcss.com/)
 * [Chakra UI](https://chakra-ui.com/)
 
+### 👓 Resources
+* [UI Space](https://uispace.net/)
+
 ### 🔰 Icons
 * [Hero Icons #1](https://heroicons.dev/)
 * [Hero Icons #2](https://heroicons.com/)
