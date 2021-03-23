@@ -24,6 +24,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Font Awesome](https://fontawesome.com/)
 * [Material Design Icons](https://materialdesignicons.com/)
 * [Material IO Icons](https://material.io/resources/icons/?style=baseline)
+* [Eva Icons](https://akveo.github.io/eva-icons/#/)
 
 ### 🎨 Colours
 * [Color Picker](https://www.webfx.com/web-design/color-picker/)
