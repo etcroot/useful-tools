@@ -11,6 +11,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Cleave.js](https://nosir.github.io/cleave.js/)
 * [D3.js](https://d3js.org/)
 * [Three.js](https://threejs.org/)
+* [Alpine.js](https://github.com/alpinejs/alpine)
 
 ### 💻 CSS Frameworks
 * [Bootstrap](https://getbootstrap.com/)
