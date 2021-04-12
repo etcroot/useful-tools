@@ -46,6 +46,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Brumm Shadow Generator](https://brumm.af/shadows)
 
 ### 🌌 SVG's
+* [Haikei](https://haikei.app/) - *best by far*
 * [Get Waves](https://getwaves.io/)
 * [Blob Maker](https://www.blobmaker.app/)
 * [Blob App](https://blobs.app/)
