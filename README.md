@@ -21,6 +21,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [TailwindCSS](https://tailwindcss.com/)
 * [Chakra UI](https://chakra-ui.com/)
 * [Pattern.css](https://bansal.io/pattern-css)
+* [CSS Effect Snippets](https://emilkowalski.github.io/css-effects-snippets/)
 
 ### 👓 Resources / Tools / Learning
 * [UI Space](https://uispace.net/)
