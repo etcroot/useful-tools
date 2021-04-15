@@ -37,6 +37,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Checklist](https://www.checklist.design/)
 * [Font Spark](https://fontspark.app/)
 * [Web Frame](https://webframe.xyz/)
+* [Ui Design Daily](https://www.uidesigndaily.com/)
 
 ### 🔮 Design
 * [Jitter](https://jitter.video/)
