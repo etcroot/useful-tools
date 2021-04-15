@@ -24,6 +24,9 @@ Just a list of web tools i use frequently into a curated list on github for easy
 ### 👓 Resources
 * [UI Space](https://uispace.net/)
 
+### 🔮 Design
+* [Jitter](https://jitter.video/)
+
 ### 🔰 Icons
 * [Hero Icons #1](https://heroicons.dev/)
 * [Hero Icons #2](https://heroicons.com/)
