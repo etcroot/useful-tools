@@ -21,10 +21,11 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [TailwindCSS](https://tailwindcss.com/)
 * [Chakra UI](https://chakra-ui.com/)
 
-### 👓 Resources
+### 👓 Resources / Tools
 * [UI Space](https://uispace.net/)
 * [Free For Devs](https://free-for.dev/)
 * [Dev Hints](https://devhints.io/)
+* [I Hate Regex](https://ihateregex.io/)
 
 ### 🔮 Design
 * [Jitter](https://jitter.video/)
