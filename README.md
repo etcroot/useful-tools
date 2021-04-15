@@ -19,6 +19,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Bootstrap](https://getbootstrap.com/)
 * [Bulma](https://bulma.io/)
 * [TailwindCSS](https://tailwindcss.com/)
+* [Tailblocks](https://tailblocks.cc/)
 * [Chakra UI](https://chakra-ui.com/)
 * [Pattern.css](https://bansal.io/pattern-css)
 * [CSS Effect Snippets](https://emilkowalski.github.io/css-effects-snippets/)
