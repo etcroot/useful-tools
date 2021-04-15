@@ -23,7 +23,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Pattern.css](https://bansal.io/pattern-css)
 * [CSS Effect Snippets](https://emilkowalski.github.io/css-effects-snippets/)
 
-### 👓 Resources / Tools / Learning
+### 👓 Resources / Tools / Learning / Inspiration
 * [UI Space](https://uispace.net/)
 * [Free For Devs](https://free-for.dev/)
 * [Dev Hints](https://devhints.io/)
@@ -35,6 +35,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Webpack](https://webpack.github.io/)
 * [Checklist](https://www.checklist.design/)
 * [Font Spark](https://fontspark.app/)
+* [Web Frame](https://webframe.xyz/)
 
 ### 🔮 Design
 * [Jitter](https://jitter.video/)
