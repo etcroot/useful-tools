@@ -29,6 +29,12 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Dev Hints](https://devhints.io/)
 * [I Hate Regex](https://ihateregex.io/)
 * [Dev Docs](https://devdocs.io/)
+* [Meta Tags](https://metatags.io/)
+* [ESLint](https://eslint.org/)
+* [BabelJS](https://babeljs.io/)
+* [Webpack](https://webpack.github.io/)
+* [Checklist](https://www.checklist.design/)
+* [Font Spark](https://fontspark.app/)
 
 ### 🔮 Design
 * [Jitter](https://jitter.video/)
@@ -71,8 +77,4 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [PixaBay](https://pixabay.com/)
 
 ### 💠 Others
-* [Meta Tags](https://metatags.io/)
-* [ESLint](https://eslint.org/)
-* [BabelJS](https://babeljs.io/)
-* [Webpack](https://webpack.github.io/)
-* [Checklist](https://www.checklist.design/)
+*soon*
