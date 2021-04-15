@@ -27,6 +27,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 
 ### 🔮 Design
 * [Jitter](https://jitter.video/)
+* [Carbon](https://carbon.now.sh/)
 
 ### 🔰 Icons
 * [Hero Icons #1](https://heroicons.dev/)
