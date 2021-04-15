@@ -15,11 +15,12 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [ScrollMagic](https://scrollmagic.io/)
 * [ScrollRevealJS](https://scrollrevealjs.org/)
 
-### 💻 CSS Frameworks
+### 💻 CSS Frameworks / Libraries
 * [Bootstrap](https://getbootstrap.com/)
 * [Bulma](https://bulma.io/)
 * [TailwindCSS](https://tailwindcss.com/)
 * [Chakra UI](https://chakra-ui.com/)
+* [Pattern.css](https://bansal.io/pattern-css)
 
 ### 👓 Resources / Tools / Learning
 * [UI Space](https://uispace.net/)
