@@ -76,6 +76,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Undraw Illustrations](https://undraw.co/illustrations)
 * [Hero Patterns](https://www.heropatterns.com/)
 * [Squircley](https://squircley.app/)
+* [BgJar](https://bgjar.com/)
 
 ### 🌃 Placeholders
 * [Unsplash Placeholders](https://unsplash.com/)
