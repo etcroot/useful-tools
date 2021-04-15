@@ -68,3 +68,4 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [ESLint](https://eslint.org/)
 * [BabelJS](https://babeljs.io/)
 * [Webpack](https://webpack.github.io/)
+* [Checklist](https://www.checklist.design/)
