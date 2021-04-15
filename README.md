@@ -24,6 +24,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 ### 👓 Resources
 * [UI Space](https://uispace.net/)
 * [Free For Devs](https://free-for.dev/)
+* [Dev Hints](https://devhints.io/)
 
 ### 🔮 Design
 * [Jitter](https://jitter.video/)
