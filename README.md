@@ -23,7 +23,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [CSS Effect Snippets](https://emilkowalski.github.io/css-effects-snippets/)
 * [Animista](https://animista.net/)
 
-### Tailwind Stuff
+### ✨ Tailwind Stuff
 * [TailwindCSS](https://tailwindcss.com/)
 * [Tailwind Resources Repo](https://github.com/aniftyco/awesome-tailwindcss)
 * [Tailblocks](https://tailblocks.cc/)
