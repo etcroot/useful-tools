@@ -88,6 +88,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Hero Patterns](https://www.heropatterns.com/)
 * [Squircley](https://squircley.app/)
 * [BgJar](https://bgjar.com/)
+* [Delesign](https://delesign.com/)
 
 ### 🌃 Placeholders
 * [Unsplash Placeholders](https://unsplash.com/)
