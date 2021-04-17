@@ -89,6 +89,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Squircley](https://squircley.app/)
 * [BgJar](https://bgjar.com/)
 * [Delesign](https://delesign.com/)
+* [Shape Dividers](https://www.shapedivider.app/)
 
 ### 🌃 Placeholders
 * [Unsplash Placeholders](https://unsplash.com/)
