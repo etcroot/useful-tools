@@ -75,6 +75,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Color Hunt](https://colorhunt.co/)
 * [Color Inspo](https://colorsinspo.com/)
 * [Flat UI Colors](https://flatuicolors.com/)
+* [Tint & Shade Generator](https://darker.vercel.app/)
 
 ### 🟥🟧 Gradients / Shadows
 * [CSS Gradient](https://cssgradient.io/)
