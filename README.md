@@ -36,6 +36,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Tailwind Run](https://tailwind.run/new)
 * [Tailwind Gradient Designer](https://gradient-designer.csspost.com/)
 * [Tailwind Grid Generator](https://tailwindgrids.com/)
+* [Tailwind Kutty](https://kutty.netlify.app/)
 
 ### 👓 Resources / Tools / Learning / Inspiration
 * [UI Space](https://uispace.net/)
