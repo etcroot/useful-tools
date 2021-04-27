@@ -70,7 +70,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Feather Icons](https://feathericons.com/)
 * [Styled Icons](https://styled-icons.js.org/)
 * [Ikonate](https://ikonate.com/)
-* [React Icons](https://react-icons.github.io/)
+* [React Icons](https://react-icons.github.io/react-icons/)
 
 ### 🎨 Colours
 * [Color Picker](https://www.webfx.com/web-design/color-picker/)
