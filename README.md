@@ -97,6 +97,8 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Delesign](https://delesign.com/)
 * [Shape Dividers](https://www.shapedivider.app/)
 * [Lukas Free Illustrations](https://lukaszadam.com/illustrations)
+* [Mixkit Free Stock Art](https://mixkit.co/free-stock-art/)
+* [Manypixels](https://www.manypixels.co/gallery)
 
 ### 🌃 Placeholders
 * [Unsplash Placeholders](https://unsplash.com/)
