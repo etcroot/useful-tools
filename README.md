@@ -99,6 +99,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Lukas Free Illustrations](https://lukaszadam.com/illustrations)
 * [Mixkit Free Stock Art](https://mixkit.co/free-stock-art/)
 * [Manypixels](https://www.manypixels.co/gallery)
+* [Lucid Illustrations](https://lucid.pixsellz.io/)
 
 ### 🌃 Placeholders
 * [Unsplash Placeholders](https://unsplash.com/)
