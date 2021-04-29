@@ -16,6 +16,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [ScrollRevealJS](https://scrollrevealjs.org/)
 
 ### 💻 CSS Frameworks / Libraries / Tools
+* [TailwindCSS](https://tailwindcss.com/)
 * [Bootstrap](https://getbootstrap.com/)
 * [Bulma](https://bulma.io/)
 * [Chakra UI](https://chakra-ui.com/)
@@ -24,7 +25,6 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Animista](https://animista.net/)
 
 ### ✨ Tailwind Stuff
-* [TailwindCSS](https://tailwindcss.com/)
 * [Tailwind Resources Repo](https://github.com/aniftyco/awesome-tailwindcss)
 * [Tailblocks](https://tailblocks.cc/)
 * [Tailwind Components](https://tailwindcomponents.com/)
