@@ -71,6 +71,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Styled Icons](https://styled-icons.js.org/)
 * [Ikonate](https://ikonate.com/)
 * [React Icons](https://react-icons.github.io/react-icons/)
+* [Iconic App](https://iconic.app/)
 
 ### 🎨 Colours
 * [Color Picker](https://www.webfx.com/web-design/color-picker/)
