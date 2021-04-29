@@ -100,6 +100,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Mixkit Free Stock Art](https://mixkit.co/free-stock-art/)
 * [Manypixels](https://www.manypixels.co/gallery)
 * [Lucid Illustrations](https://lucid.pixsellz.io/)
+* [Pixeltrue](https://www.pixeltrue.com/free-illustrations)
 
 ### 🌃 Placeholders
 * [Unsplash Placeholders](https://unsplash.com/)
