@@ -113,3 +113,4 @@ Just a list of web tools i use frequently into a curated list on github for easy
 
 ### 💠 Others
 * [Corners](https://www.generateit.net/rounded-corner/)
+* [StickPNG](http://www.stickpng.com/)
