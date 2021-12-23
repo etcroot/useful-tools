@@ -105,6 +105,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Isometric](https://isometric.online/)
 * [Story Set](https://storyset.com/)
 * [Free Illustrations](https://illlustrations.co/)
+* [Vecteezy](https://www.vecteezy.com/)
 
 ### 🌃 Placeholders
 * [Unsplash Placeholders](https://unsplash.com/)
