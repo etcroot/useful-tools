@@ -39,7 +39,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Tailwind Kutty](https://kutty.netlify.app/)
 
 ### 👓 Resources / Tools / Learning / Inspiration
-* [Openbase - Choose the right library](https://openbase.com/) (RECOMMENDED)
+* [Openbase - Choose the right library](https://openbase.com/) *Recommended*
 * [UI Space](https://uispace.net/)
 * [Free For Devs](https://free-for.dev/)
 * [Dev Hints](https://devhints.io/)
@@ -88,7 +88,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Brumm Shadow Generator](https://brumm.af/shadows)
 
 ### 🌌 SVG's
-* [Haikei](https://haikei.app/) - *best by far*
+* [Haikei](https://haikei.app/) - *Best by far*
 * [Get Waves](https://getwaves.io/)
 * [Blob Maker](https://www.blobmaker.app/)
 * [Blob App](https://blobs.app/)
