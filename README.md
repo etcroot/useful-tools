@@ -39,6 +39,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Tailwind Kutty](https://kutty.netlify.app/)
 
 ### 👓 Resources / Tools / Learning / Inspiration
+* [Openbase - Choose the right library](https://openbase.com/) (RECOMMENDED)
 * [UI Space](https://uispace.net/)
 * [Free For Devs](https://free-for.dev/)
 * [Dev Hints](https://devhints.io/)
