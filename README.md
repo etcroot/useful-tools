@@ -14,6 +14,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Alpine.js](https://github.com/alpinejs/alpine)
 * [ScrollMagic](https://scrollmagic.io/)
 * [ScrollRevealJS](https://scrollrevealjs.org/)
+* [Keen Slider](https://keen-slider.io/)
 
 ### 💻 CSS Frameworks / Libraries / Tools
 * [TailwindCSS](https://tailwindcss.com/)
