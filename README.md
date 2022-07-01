@@ -25,6 +25,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [CSS Effect Snippets](https://emilkowalski.github.io/css-effects-snippets/)
 * [Animista](https://animista.net/)
 * [CSS Glass Morphism Generator](https://fjolt.com/article/css-glass-morphism-generator?)
+* [NextUI](https://nextui.org/) (For NextJS)
 
 ### ✨ Tailwind Stuff
 * [Tailwind Resources Repo](https://github.com/aniftyco/awesome-tailwindcss)
