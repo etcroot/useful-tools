@@ -113,6 +113,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Story Set](https://storyset.com/)
 * [Free Illustrations](https://illlustrations.co/)
 * [Vecteezy](https://www.vecteezy.com/)
+* [Dicebear Avatars](https://avatars.dicebear.com/)
 
 ### 🌃 Placeholders
 * [Unsplash Placeholders](https://unsplash.com/)
