@@ -16,6 +16,9 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [ScrollRevealJS](https://scrollrevealjs.org/)
 * [Keen Slider](https://keen-slider.io/)
 
+### 📦 Databases
+* [SurrealDB](https://surrealdb.com/) *Recommended*
+
 ### 💻 CSS Frameworks / Libraries / Tools
 * [TailwindCSS](https://tailwindcss.com/)
 * [Bootstrap](https://getbootstrap.com/)
@@ -114,9 +117,6 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Free Illustrations](https://illlustrations.co/)
 * [Vecteezy](https://www.vecteezy.com/)
 * [Dicebear Avatars](https://avatars.dicebear.com/)
-
-### 📦 Databases
-* [SurrealDB](https://surrealdb.com/) *Recommended*
 
 ### 🌃 Placeholders
 * [Unsplash Placeholders](https://unsplash.com/)
