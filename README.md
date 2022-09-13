@@ -115,6 +115,9 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Vecteezy](https://www.vecteezy.com/)
 * [Dicebear Avatars](https://avatars.dicebear.com/)
 
+### 📦 Databases
+* [SurrealDB](https://surrealdb.com/) *Recommended*
+
 ### 🌃 Placeholders
 * [Unsplash Placeholders](https://unsplash.com/)
 * [Stock Snap](https://stocksnap.io/)
