@@ -16,8 +16,9 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [ScrollRevealJS](https://scrollrevealjs.org/)
 * [Keen Slider](https://keen-slider.io/)
 
-### 📦 Databases
+### 📦 Data Management
 * [SurrealDB](https://surrealdb.com/) *Recommended*
+* [Json Crack](https://jsoncrack.com/)
 
 ### 💻 CSS Frameworks / Libraries / Tools
 * [TailwindCSS](https://tailwindcss.com/)
