@@ -19,6 +19,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 
 ### 📦 Data Management
 * [SurrealDB](https://surrealdb.com/) *Recommended*
+* [Supabase](https://supabase.com)
 * [Json Crack](https://jsoncrack.com/)
 
 ### 💻 CSS Frameworks / Libraries / Tools
