@@ -67,6 +67,8 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Ui Design Daily](https://www.uidesigndaily.com/)
 * [Privacy Policy Generator](https://getterms.io/)
 * [React Hooks Cheatsheet](https://react-hooks-cheatsheet.com/)
+* [Sidekick](https://runsidekick.com/)
+
 
 ### 🔮 Design
 * [Jitter](https://jitter.video/)
