@@ -68,6 +68,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Privacy Policy Generator](https://getterms.io/)
 * [React Hooks Cheatsheet](https://react-hooks-cheatsheet.com/)
 * [Sidekick](https://runsidekick.com/)
+* [Laws of UX](https://lawsofux.com/)
 
 
 ### 🔮 Design
