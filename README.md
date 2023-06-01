@@ -70,6 +70,7 @@ Just a list of web tools i use frequently into a curated list on github for easy
 * [Sidekick](https://runsidekick.com/)
 * [Laws of UX](https://lawsofux.com/)
 * [Design Patterns](https://www.patterns.dev/)
+* [Use Hooks](https://usehooks.com/)
 
 
 ### 🔮 Design
